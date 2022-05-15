@@ -1,6 +1,5 @@
 # devops-netology
 # test
-# Student: Borisov Ilya
-# Group: 15-139
+# Student: BI
 # 
  в будущем будут игнорироваться файлы с расширением ".ignore_this_files"
